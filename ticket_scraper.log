@@ -1,0 +1,1666 @@
+2025-04-14 02:56:44,539 - INFO - ====== WebDriver manager ======
+2025-04-14 02:56:46,055 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:56:46,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:56:46,994 - INFO - Driver [C:\Users\msi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-04-14 02:56:47,000 - ERROR - Failed to initialize scraper: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:56:47,001 - ERROR - Error in main: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:57:41,815 - INFO - ====== WebDriver manager ======
+2025-04-14 02:57:43,251 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:57:43,676 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:57:44,118 - INFO - Driver [C:\Users\msi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-04-14 02:57:44,126 - ERROR - Failed to initialize scraper: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:57:44,127 - ERROR - Error in main: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:57:52,018 - INFO - ====== WebDriver manager ======
+2025-04-14 02:57:53,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:57:53,977 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:57:54,448 - INFO - Driver [C:\Users\msi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-04-14 02:57:54,456 - ERROR - Failed to initialize scraper: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:57:54,457 - ERROR - Error in main: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:58:31,147 - INFO - ====== WebDriver manager ======
+2025-04-14 02:58:32,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:58:33,157 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 02:58:33,635 - INFO - Driver [C:\Users\msi\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-04-14 02:58:33,643 - ERROR - Failed to initialize scraper: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 02:58:33,644 - ERROR - Error in main: [WinError 193] %1 is not a valid Win32 application
+2025-04-14 03:06:54,630 - INFO - patching driver executable C:\Users\msi\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-14 03:06:56,080 - INFO - Scraper initialized successfully
+2025-04-14 03:06:56,081 - INFO - 
+Processing main category: concerts
+2025-04-14 03:07:13,731 - INFO - Navigated to category: concerts
+2025-04-14 03:07:13,734 - INFO - Processing subcategory: Rock
+2025-04-14 03:07:43,719 - ERROR - Error processing subcategory Rock: Message: 
+
+2025-04-14 03:07:48,722 - INFO - Processing subcategory: Pop
+2025-04-14 03:08:08,796 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F980E3+60707]
+	GetHandleVerifier [0x00F98124+60772]
+	(No symbol) [0x00DC0683]
+	(No symbol) [0x00E08660]
+	(No symbol) [0x00E089FB]
+	(No symbol) [0x00E51022]
+	(No symbol) [0x00E2D094]
+	(No symbol) [0x00E4E824]
+	(No symbol) [0x00E2CE46]
+	(No symbol) [0x00DFC5D3]
+	(No symbol) [0x00DFD424]
+	GetHandleVerifier [0x011DBBC3+2435075]
+	GetHandleVerifier [0x011D7163+2416035]
+	GetHandleVerifier [0x011F350C+2531660]
+	GetHandleVerifier [0x00FAF1B5+155125]
+	GetHandleVerifier [0x00FB5B5D+182173]
+	GetHandleVerifier [0x00F9F9B8+91640]
+	GetHandleVerifier [0x00F9FB60+92064]
+	GetHandleVerifier [0x00F8A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 03:08:08,799 - INFO - Processing subcategory: Hip-Hop/Rap
+2025-04-14 03:08:29,327 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F980E3+60707]
+	GetHandleVerifier [0x00F98124+60772]
+	(No symbol) [0x00DC0683]
+	(No symbol) [0x00E08660]
+	(No symbol) [0x00E089FB]
+	(No symbol) [0x00E51022]
+	(No symbol) [0x00E2D094]
+	(No symbol) [0x00E4E824]
+	(No symbol) [0x00E2CE46]
+	(No symbol) [0x00DFC5D3]
+	(No symbol) [0x00DFD424]
+	GetHandleVerifier [0x011DBBC3+2435075]
+	GetHandleVerifier [0x011D7163+2416035]
+	GetHandleVerifier [0x011F350C+2531660]
+	GetHandleVerifier [0x00FAF1B5+155125]
+	GetHandleVerifier [0x00FB5B5D+182173]
+	GetHandleVerifier [0x00F9F9B8+91640]
+	GetHandleVerifier [0x00F9FB60+92064]
+	GetHandleVerifier [0x00F8A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 03:08:29,330 - INFO - Processing subcategory: Country
+2025-04-14 03:09:06,290 - ERROR - Error processing subcategory Country: Message: 
+
+2025-04-14 03:09:11,293 - INFO - Processing subcategory: R&B
+2025-04-14 03:09:31,541 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F980E3+60707]
+	GetHandleVerifier [0x00F98124+60772]
+	(No symbol) [0x00DC0683]
+	(No symbol) [0x00E08660]
+	(No symbol) [0x00E089FB]
+	(No symbol) [0x00E51022]
+	(No symbol) [0x00E2D094]
+	(No symbol) [0x00E4E824]
+	(No symbol) [0x00E2CE46]
+	(No symbol) [0x00DFC5D3]
+	(No symbol) [0x00DFD424]
+	GetHandleVerifier [0x011DBBC3+2435075]
+	GetHandleVerifier [0x011D7163+2416035]
+	GetHandleVerifier [0x011F350C+2531660]
+	GetHandleVerifier [0x00FAF1B5+155125]
+	GetHandleVerifier [0x00FB5B5D+182173]
+	GetHandleVerifier [0x00F9F9B8+91640]
+	GetHandleVerifier [0x00F9FB60+92064]
+	GetHandleVerifier [0x00F8A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 03:09:31,543 - INFO - Processing subcategory: Alternative
+2025-04-14 08:50:12,704 - INFO - patching driver executable C:\Users\msi\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-14 08:50:14,315 - INFO - Scraper initialized successfully
+2025-04-14 08:50:14,316 - INFO - 
+Processing main category: concerts
+2025-04-14 08:50:28,266 - INFO - Navigated to category: concerts
+2025-04-14 08:50:28,269 - INFO - Processing subcategory: Rock
+2025-04-14 08:50:58,732 - ERROR - Error processing subcategory Rock: Message: 
+
+2025-04-14 08:51:03,734 - INFO - Processing subcategory: Pop
+2025-04-14 08:51:07,845 - ERROR - Error in process_subcategory: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DB6DE7]
+	(No symbol) [0x00DB90DA]
+	(No symbol) [0x00DB9157]
+	(No symbol) [0x00DFE872]
+	(No symbol) [0x00DFCCE4]
+	(No symbol) [0x00DFA887]
+	(No symbol) [0x00DF9B8B]
+	(No symbol) [0x00DEE215]
+	(No symbol) [0x00E1D04C]
+	(No symbol) [0x00DEDCA4]
+	(No symbol) [0x00E1D2C4]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:51:07,848 - INFO - Processing subcategory: Hip-Hop/Rap
+2025-04-14 08:51:27,884 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:51:27,886 - INFO - Processing subcategory: Country
+2025-04-14 08:51:48,396 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:51:48,397 - INFO - Processing subcategory: R&B
+2025-04-14 08:52:08,510 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:52:08,512 - INFO - Processing subcategory: Alternative
+2025-04-14 08:52:28,621 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:52:28,623 - INFO - Processing subcategory: Blues
+2025-04-14 08:52:29,878 - ERROR - Error in process_subcategory: Message: element click intercepted: Element is not clickable at point (855, 3733)
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DFE940]
+	(No symbol) [0x00DFCCE4]
+	(No symbol) [0x00DFA887]
+	(No symbol) [0x00DF9B8B]
+	(No symbol) [0x00DEE215]
+	(No symbol) [0x00E1D04C]
+	(No symbol) [0x00DEDCA4]
+	(No symbol) [0x00E1D2C4]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:52:29,880 - INFO - Processing subcategory: Classical
+2025-04-14 08:52:50,150 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:52:50,151 - INFO - Processing subcategory: Comedy
+2025-04-14 08:52:51,281 - ERROR - Error in process_subcategory: Message: element click intercepted: Element is not clickable at point (517, -1110)
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DFE940]
+	(No symbol) [0x00DFCCE4]
+	(No symbol) [0x00DFA887]
+	(No symbol) [0x00DF9B8B]
+	(No symbol) [0x00DEE215]
+	(No symbol) [0x00E1D04C]
+	(No symbol) [0x00DEDCA4]
+	(No symbol) [0x00E1D2C4]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:52:51,283 - INFO - Processing subcategory: Dance/Electronic
+2025-04-14 08:53:11,764 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:53:11,767 - INFO - Processing subcategory: Folk
+2025-04-14 08:53:32,233 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:53:32,234 - INFO - Processing subcategory: Jazz
+2025-04-14 08:53:50,193 - ERROR - Error in process_subcategory: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DB6DE7]
+	(No symbol) [0x00DB90DA]
+	(No symbol) [0x00DB9157]
+	(No symbol) [0x00DFE872]
+	(No symbol) [0x00DFCCE4]
+	(No symbol) [0x00DFA887]
+	(No symbol) [0x00DF9B8B]
+	(No symbol) [0x00DEE215]
+	(No symbol) [0x00E1D04C]
+	(No symbol) [0x00DEDCA4]
+	(No symbol) [0x00E1D2C4]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:53:50,194 - INFO - Processing subcategory: Latin
+2025-04-14 08:54:05,435 - ERROR - Error in process_subcategory: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DB6DE7]
+	(No symbol) [0x00DB90DA]
+	(No symbol) [0x00DB9157]
+	(No symbol) [0x00DFE872]
+	(No symbol) [0x00DFCCE4]
+	(No symbol) [0x00DFA887]
+	(No symbol) [0x00DF9B8B]
+	(No symbol) [0x00DEE215]
+	(No symbol) [0x00E1D04C]
+	(No symbol) [0x00DEDCA4]
+	(No symbol) [0x00E1D2C4]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:54:05,436 - INFO - Processing subcategory: Metal
+2025-04-14 08:54:25,860 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:54:25,862 - INFO - Processing subcategory: Reggae
+2025-04-14 08:54:46,273 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:54:46,276 - INFO - Processing subcategory: World
+2025-04-14 08:55:19,778 - ERROR - Error processing subcategory World: Message: 
+
+2025-04-14 08:55:34,780 - INFO - 
+Processing main category: sports
+2025-04-14 08:55:48,635 - INFO - Navigated to category: sports
+2025-04-14 08:55:48,637 - INFO - Processing subcategory: Baseball
+2025-04-14 08:56:18,480 - ERROR - Error processing subcategory Baseball: Message: 
+
+2025-04-14 08:56:23,481 - INFO - Processing subcategory: Basketball
+2025-04-14 08:56:43,497 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:56:43,499 - INFO - Processing subcategory: Football
+2025-04-14 08:57:03,681 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:57:03,683 - INFO - Processing subcategory: Hockey
+2025-04-14 08:57:23,872 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:57:23,875 - INFO - Processing subcategory: Soccer
+2025-04-14 08:57:43,926 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:57:43,927 - INFO - Processing subcategory: Auto Racing
+2025-04-14 08:58:04,296 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:58:04,298 - INFO - Processing subcategory: Boxing
+2025-04-14 08:58:24,743 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:58:24,746 - INFO - Processing subcategory: Golf
+2025-04-14 08:58:45,228 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:58:45,229 - INFO - Processing subcategory: Lacrosse
+2025-04-14 08:59:05,672 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:59:05,674 - INFO - Processing subcategory: MMA
+2025-04-14 08:59:25,821 - ERROR - Error in process_subcategory: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00DF8660]
+	(No symbol) [0x00DF89FB]
+	(No symbol) [0x00E41022]
+	(No symbol) [0x00E1D094]
+	(No symbol) [0x00E3E824]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 08:59:25,822 - INFO - Processing subcategory: Rugby
+2025-04-14 08:59:58,597 - ERROR - Error processing subcategory Rugby: Message: 
+
+2025-04-14 09:00:03,599 - INFO - Processing subcategory: Tennis
+2025-04-14 09:00:19,495 - ERROR - Error in process_subcategory: 'NoneType' object has no attribute 'is_displayed'
+2025-04-14 09:00:19,496 - INFO - Processing subcategory: Wrestling
+2025-04-14 09:00:19,497 - ERROR - Error in process_subcategory: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00D8FBEE]
+	(No symbol) [0x00E23C2E]
+	(No symbol) [0x00E3E129]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:00:29,498 - INFO - 
+Processing main category: arts
+2025-04-14 09:00:29,500 - ERROR - Error navigating to category arts: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00D8FBEE]
+	(No symbol) [0x00E23C2E]
+	(No symbol) [0x00E3E129]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:00:39,502 - INFO - 
+Processing main category: family
+2025-04-14 09:00:39,505 - ERROR - Error navigating to category family: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F880E3+60707]
+	GetHandleVerifier [0x00F88124+60772]
+	(No symbol) [0x00DB0683]
+	(No symbol) [0x00D8FBEE]
+	(No symbol) [0x00E23C2E]
+	(No symbol) [0x00E3E129]
+	(No symbol) [0x00E1CE46]
+	(No symbol) [0x00DEC5D3]
+	(No symbol) [0x00DED424]
+	GetHandleVerifier [0x011CBBC3+2435075]
+	GetHandleVerifier [0x011C7163+2416035]
+	GetHandleVerifier [0x011E350C+2531660]
+	GetHandleVerifier [0x00F9F1B5+155125]
+	GetHandleVerifier [0x00FA5B5D+182173]
+	GetHandleVerifier [0x00F8F9B8+91640]
+	GetHandleVerifier [0x00F8FB60+92064]
+	GetHandleVerifier [0x00F7A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:00:49,506 - ERROR - No results obtained
+2025-04-14 09:00:49,686 - INFO - Driver closed
+2025-04-14 09:01:36,993 - INFO - patching driver executable C:\Users\msi\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-14 09:01:38,499 - INFO - Scraper initialized successfully
+2025-04-14 09:01:54,686 - INFO - Navigated to concerts section
+2025-04-14 09:01:54,689 - INFO - 
+Processing Rock
+2025-04-14 09:02:04,877 - INFO - Navigated to subcategory: Rock
+2025-04-14 09:02:04,877 - INFO - Processing tickets for subcategory: Rock
+2025-04-14 09:02:32,227 - ERROR - Error processing subcategory tickets: Message: 
+
+2025-04-14 09:02:37,410 - INFO - 
+Processing Hip-Hop/Rap
+2025-04-14 09:02:57,721 - ERROR - Error navigating to subcategory Hip-Hop/Rap: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:03:02,889 - INFO - 
+Processing Country
+2025-04-14 09:03:22,999 - ERROR - Error navigating to subcategory Country: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:03:28,008 - INFO - 
+Processing Latin
+2025-04-14 09:03:48,363 - ERROR - Error navigating to subcategory Latin: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:03:53,372 - INFO - 
+Processing Pop
+2025-04-14 09:04:13,618 - ERROR - Error navigating to subcategory Pop: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:04:18,625 - INFO - 
+Processing R&B
+2025-04-14 09:04:39,135 - ERROR - Error navigating to subcategory R&B: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:04:44,584 - INFO - 
+Processing Alternative
+2025-04-14 09:05:04,628 - ERROR - Error navigating to subcategory Alternative: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:05:09,654 - INFO - 
+Processing Blues
+2025-04-14 09:05:29,896 - ERROR - Error navigating to subcategory Blues: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:05:34,903 - INFO - 
+Processing Classical
+2025-04-14 09:05:55,101 - ERROR - Error navigating to subcategory Classical: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:06:00,128 - INFO - 
+Processing Comedy
+2025-04-14 09:06:20,326 - ERROR - Error navigating to subcategory Comedy: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:06:25,356 - INFO - 
+Processing Dance/Electronic
+2025-04-14 09:06:45,601 - ERROR - Error navigating to subcategory Dance/Electronic: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:06:50,635 - INFO - 
+Processing Folk
+2025-04-14 09:07:10,899 - ERROR - Error navigating to subcategory Folk: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:07:15,925 - INFO - 
+Processing Jazz
+2025-04-14 09:07:36,327 - ERROR - Error navigating to subcategory Jazz: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:07:41,333 - INFO - 
+Processing Metal
+2025-04-14 09:08:01,368 - ERROR - Error navigating to subcategory Metal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:08:06,406 - INFO - 
+Processing Reggae
+2025-04-14 09:08:26,888 - ERROR - Error navigating to subcategory Reggae: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:08:31,894 - INFO - 
+Processing World
+2025-04-14 09:08:52,012 - ERROR - Error navigating to subcategory World: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010A80E3+60707]
+	GetHandleVerifier [0x010A8124+60772]
+	(No symbol) [0x00ED0683]
+	(No symbol) [0x00F18660]
+	(No symbol) [0x00F189FB]
+	(No symbol) [0x00F61022]
+	(No symbol) [0x00F3D094]
+	(No symbol) [0x00F5E824]
+	(No symbol) [0x00F3CE46]
+	(No symbol) [0x00F0C5D3]
+	(No symbol) [0x00F0D424]
+	GetHandleVerifier [0x012EBBC3+2435075]
+	GetHandleVerifier [0x012E7163+2416035]
+	GetHandleVerifier [0x0130350C+2531660]
+	GetHandleVerifier [0x010BF1B5+155125]
+	GetHandleVerifier [0x010C5B5D+182173]
+	GetHandleVerifier [0x010AF9B8+91640]
+	GetHandleVerifier [0x010AFB60+92064]
+	GetHandleVerifier [0x0109A620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:08:57,017 - ERROR - No results obtained
+2025-04-14 09:08:57,686 - INFO - Browser closed
+2025-04-14 09:10:22,814 - INFO - patching driver executable C:\Users\msi\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-14 09:10:24,389 - INFO - Scraper initialized successfully
+2025-04-14 09:11:11,288 - INFO - Navigated to concerts section
+2025-04-14 09:11:11,290 - INFO - 
+Processing Rock
+2025-04-14 09:11:21,078 - INFO - Navigated to subcategory: Rock
+2025-04-14 09:11:21,079 - INFO - Processing tickets for subcategory: Rock
+2025-04-14 09:11:48,935 - ERROR - Error processing subcategory tickets: Message: 
+
+2025-04-14 09:11:54,053 - INFO - 
+Processing Hip-Hop/Rap
+2025-04-14 09:12:03,870 - INFO - Navigated to subcategory: Hip-Hop/Rap
+2025-04-14 09:12:03,878 - INFO - Processing tickets for subcategory: Hip-Hop/Rap
+2025-04-14 09:12:31,887 - ERROR - Error processing subcategory tickets: Message: 
+
+2025-04-14 09:12:37,031 - INFO - 
+Processing Country
+2025-04-14 09:12:38,205 - ERROR - Error navigating to subcategory Country: Message: element click intercepted: Element <a href="/discover/concerts?classificationId=KnvZfZ7vAv6" class="sc-3ccb7856-4 jwCkku">...</a> is not clickable at point (364, 619). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B2E940]
+	(No symbol) [0x00B2CCE4]
+	(No symbol) [0x00B2A887]
+	(No symbol) [0x00B29B8B]
+	(No symbol) [0x00B1E215]
+	(No symbol) [0x00B4D04C]
+	(No symbol) [0x00B1DCA4]
+	(No symbol) [0x00B4D2C4]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:12:43,516 - INFO - 
+Processing Latin
+2025-04-14 09:13:03,575 - ERROR - Error navigating to subcategory Latin: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:13:08,603 - INFO - 
+Processing Pop
+2025-04-14 09:13:29,123 - ERROR - Error navigating to subcategory Pop: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:13:34,157 - INFO - 
+Processing R&B
+2025-04-14 09:13:54,685 - ERROR - Error navigating to subcategory R&B: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:13:59,699 - INFO - 
+Processing Alternative
+2025-04-14 09:14:20,101 - ERROR - Error navigating to subcategory Alternative: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:14:25,111 - INFO - 
+Processing Blues
+2025-04-14 09:14:45,512 - ERROR - Error navigating to subcategory Blues: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:14:50,554 - INFO - 
+Processing Classical
+2025-04-14 09:15:10,728 - ERROR - Error navigating to subcategory Classical: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:15:15,751 - INFO - 
+Processing Comedy
+2025-04-14 09:15:35,906 - ERROR - Error navigating to subcategory Comedy: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:15:40,926 - INFO - 
+Processing Dance/Electronic
+2025-04-14 09:16:01,010 - ERROR - Error navigating to subcategory Dance/Electronic: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:16:06,026 - INFO - 
+Processing Folk
+2025-04-14 09:16:26,571 - ERROR - Error navigating to subcategory Folk: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:16:31,597 - INFO - 
+Processing Jazz
+2025-04-14 09:16:51,823 - ERROR - Error navigating to subcategory Jazz: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:16:56,851 - INFO - 
+Processing Metal
+2025-04-14 09:17:16,952 - ERROR - Error navigating to subcategory Metal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:17:22,000 - INFO - 
+Processing Reggae
+2025-04-14 09:17:42,102 - ERROR - Error navigating to subcategory Reggae: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:17:47,108 - INFO - 
+Processing World
+2025-04-14 09:18:07,671 - ERROR - Error navigating to subcategory World: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CB80E3+60707]
+	GetHandleVerifier [0x00CB8124+60772]
+	(No symbol) [0x00AE0683]
+	(No symbol) [0x00B28660]
+	(No symbol) [0x00B289FB]
+	(No symbol) [0x00B71022]
+	(No symbol) [0x00B4D094]
+	(No symbol) [0x00B6E824]
+	(No symbol) [0x00B4CE46]
+	(No symbol) [0x00B1C5D3]
+	(No symbol) [0x00B1D424]
+	GetHandleVerifier [0x00EFBBC3+2435075]
+	GetHandleVerifier [0x00EF7163+2416035]
+	GetHandleVerifier [0x00F1350C+2531660]
+	GetHandleVerifier [0x00CCF1B5+155125]
+	GetHandleVerifier [0x00CD5B5D+182173]
+	GetHandleVerifier [0x00CBF9B8+91640]
+	GetHandleVerifier [0x00CBFB60+92064]
+	GetHandleVerifier [0x00CAA620+4704]
+	BaseThreadInitThunk [0x75F35D49+25]
+	RtlInitializeExceptionChain [0x776CCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x776CCE91+561]
+
+2025-04-14 09:18:12,695 - ERROR - No results obtained
+2025-04-14 09:18:13,565 - INFO - Browser closed
