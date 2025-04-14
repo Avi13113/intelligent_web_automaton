@@ -41,11 +41,13 @@ This project demonstrates an AI-powered automation model that interacts with rea
 
 "Machine Learning is not just analyzing data — it's actively interacting with the web."
 
-Tech Stack:
-Python
 
-Selenium
+# Tech Stack:
 
-Browser Automation
+- Python
 
-Dynamic Web Interaction
+- Selenium
+
+- Browser Automation
+
+- Dynamic Web Interaction
